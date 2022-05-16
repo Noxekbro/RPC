@@ -1,9 +1,9 @@
 { 
-"applicationID": "Your application ID",
-"name": "Title",
+"applicationID": "975644264270811136",
+"name": "Call of duty mobile season 4",
 "details": "Description",
 "state": "Footer",
-"type": "(choose one) PLAYING, LISTENING, STREAMING, WATCHING",
-"largeImage": "Big Image Name",
-"smallImage": "Small Image Name"
+"type": "PLAYING",
+"largeImage": "large",
+"smallImage": "Small"
 }
